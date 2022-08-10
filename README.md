@@ -49,6 +49,11 @@ Here are some ideas to get you started:
 - spring-retry, resilience4j に影響を受けたリトライライブラリ。小さいクラスをくみあわせて設定・実行ができる。
 - <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="typescript" width="20" height="20"/> にパッケージが公開されている: [attemptify](https://www.npmjs.com/package/attemptify)
 
+### [expressionify](https://github.com/simonNozaki/expessionify)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
+- if, try-catchなどの "文" を "式" として実装する実験的なライブラリ。
+- <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="typescript" width="20" height="20"/> にパッケージが公開されている: [@snozaki/expressionify](https://www.npmjs.com/package/@snozaki/expressionify)
+
 <h2 align="left">連絡はこちらでも:</h3>
 <p align="left">
 <a href="https://twitter.com/catch_all_balls" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ex_takezawa" height="30" width="40" /></a>
