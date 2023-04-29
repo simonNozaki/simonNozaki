@@ -1,25 +1,10 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-<!--
-**simonNozaki/simonNozaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hacomonoで働いています。
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-ネットプロテクションズで働いています。バックエンド開発、オブジェクト指向、静的型付け。なおClojureは趣味レベルです。
+<a href="https://twitter.com/catch_all_balls" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ex_takezawa" height="30" width="40" /></a>
 
 <h1 align="center"> 置いているもの </h1>
-ハイライトはテーマに沿った実装例と、個人で開発しているライブラリです。
-
 ## 実装例
 オブジェクト指向・ドメイン駆動設計っぽいアプリケーションの実装例。
 
@@ -53,8 +38,3 @@ Here are some ideas to get you started:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
 - if, try-catchなどの "文" を "式" として実装する実験的なライブラリ。
 - <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="typescript" width="20" height="20"/> にパッケージが公開されている: [@snozaki/expressionify](https://www.npmjs.com/package/@snozaki/expressionify)
-
-<h2 align="left">連絡はこちらでも:</h3>
-<p align="left">
-<a href="https://twitter.com/catch_all_balls" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ex_takezawa" height="30" width="40" /></a>
-</p>
